@@ -12,6 +12,8 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 
 > **Obs. 2:** Ao instalar o Node.js o npm é instalado junto.
 
+> **Obs. 3:** Em um projeto real, os dados sensíveis contidos nos códigos estariam em um arquivo .env
+
 # Clone o projeto
 
 Recomendo ao clone via SSH, pois é mais prático.
